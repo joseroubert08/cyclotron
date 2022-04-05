@@ -30,7 +30,7 @@
     "jsondiffpatch": "0.1.41",
     "ldapjs": "0.7.1",
     "lodash": "~4.14.1",
-    "moment": "~2.8.3",
+    "moment": "~2.29.2",
     "mongoose": "~3.8.33",
     "morgan": "~1.5.3",
     "node-uuid": "~1.4.3",
