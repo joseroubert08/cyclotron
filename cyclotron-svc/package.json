@@ -36,7 +36,7 @@
     "node-uuid": "~1.4.3",
     "passport": "~0.2.2",
     "passport-ldapauth": "~0.3.0",
-    "request": "~2.39",
+    "request": "~2.75.0",
     "serve-static": "~1.9.3",
     "shortid": "2.0.0",
     "ssl-root-cas": "^1.2.2"
