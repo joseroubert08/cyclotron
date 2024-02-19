@@ -24,7 +24,7 @@
     "errorhandler": "~1.3.6",
     "express": "~4.12.4",
     "highland": "^3.0.0-beta.2",
-    "ip": "0.3.0",
+    "ip": "1.1.9",
     "json2csv": "^3.6.3",
     "json2xls": "^0.1.2",
     "jsondiffpatch": "0.1.41",
